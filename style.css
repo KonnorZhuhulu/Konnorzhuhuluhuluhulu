@@ -1,0 +1,265 @@
+#header{padding: 3rem;
+    text-align: center;
+    font-size: 3rem;
+    justify-content: center;
+    border: 2px black solid;
+    padding: 43px;
+    }
+    
+    .topnavigation{text-align: center;
+    display: flex;
+    gap: 400px;
+    justify-content: center;
+    border: 2px black solid;
+    padding: 15px;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 25px;
+    }
+    
+    .image{
+        float: right;
+        margin-right: 4.5rem;
+        width: 300px
+    }
+    
+    .text{
+        font-size: 2.75rem;
+       line-height: 35px;
+    }
+    .text2{
+        font-size: 1.75rem;
+        line-height: 15px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .text3{
+        font-size: 1.25rem;
+       
+        margin-top: 0px;
+    }
+    .class{
+        width: 250px;
+        line-height: 10px;
+    }
+    #h3{
+        border: 2px solid black;
+       margin-right: 0px;
+       margin-top: 0%;
+    
+        text-align: center;
+    }
+    .texts{
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-right: 65px;
+    }
+    .grid-container {
+        display: grid; 
+        grid-template-columns: repeat(3, 415px); 
+        grid-template-rows: repeat(1 0px); 
+        gap: 10px; 
+    }
+    .grid-container3 {
+            display: grid; 
+            grid-template-columns: repeat(3, 415px); 
+            grid-template-rows: repeat(1 20px); 
+            gap: 10px; 
+    }
+    #stext {
+    font-size: 14px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
+    }
+    
+    .grid-item11 {
+        background-color: grey;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        border: 1px solid #333
+    }
+    .grid-item12 {
+        background-color: grey;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        border: 1px solid #333
+    }
+    .grid-item13 {
+        background-color: grey;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 25px;
+        border: 1px solid #333
+    }
+    
+    .grid-container2 {
+        display: grid; 
+        grid-template-columns: repeat(3, 415px); 
+        grid-template-rows: repeat(2, 138px); 
+        gap: 10px; 
+    }
+    
+    .grid-item1 {
+        background-color: rgb(211, 211, 211);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        border: 1px solid #333
+    
+    }
+    .grid-item2 {
+        background-color: rgb(211, 211, 211);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        border: 1px solid #333;
+        
+    }
+    .grid-item3 {
+        background-color: rgb(211, 211, 211);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        border: 1px solid #333;
+    }
+    .grid-item4 {
+        background-color: rgb(211, 211, 211);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        border: 1px solid #333;
+        text-align: center;
+    }
+    .grid-item5 {
+        background-color:rgb(211, 211, 211);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        border: 1px solid #333;
+        text-align: center;
+    }
+    .grid-item6 {
+        background-color: rgb(211, 211, 211);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 50px;
+        border: 1px solid #333;
+        text-align: center;
+        text-justify: auto;
+        color: black;
+    }
+    
+    #wechatimage{
+        width: 20%;
+        margin-left: 40px;
+    }
+    #discordimage{
+        width: 20%;
+        margin-left: 40px;
+    }
+    #phoneimage{
+        width: 20%;
+        margin-left: 25px;
+    }
+    #messagesimage{
+        width: 20%;
+        margin-left: 20px; 
+    }
+    #gmailimage{
+        width: 20%;
+        margin-left: 35px;  
+    }
+    #outlookimage{
+        width: 20%;
+        margin-left: 35px;  
+    }
+    .addme{
+        text-align: center;
+        margin-top: 50px;
+        font-size: 2rem;
+    }
+    #discordimages{
+        width: 10rem;
+    }
+    #wechatimages{
+        width: 150px;
+    }
+    #phoneimages{
+        width: 200px;
+    }
+    #messagesimages{
+        width: 175px;
+    }
+    #gmailimages{
+        width: 150px;
+    }
+    #outlookimages{
+        width: 150px;
+    }
+    .skillsimage{
+        width: 20rem;
+        margin-left: 45px;
+        
+    }
+    .achievementstext{
+        font-size: 50px;
+    }
+    .achievementsimage{
+        width: 250px;
+        text-align: center;
+    }
+    .center {
+        display: block;
+        margin-left: 75px;
+        margin-right: auto;
+        width: 50%;
+      }
+      .hobbiesimage{
+        width: 250px;
+        margin-left:80px
+      }
+      
+      .container {
+        position: relative;
+        text-align: center;
+        color: white;
+        width: 64%;
+      }
+    
+      .top-left {
+        position: absolute;
+        top: 8px;
+        left: 16px;
+        margin-left: 30px;
+    
+      }
+    
+    .skills{
+    border: solid black;  
+    border-width: 2px; 
+    }
+    .achievements{
+        border: solid black;  
+        border-width: 2px; 
+        }
+    .skills{
+        border: solid black;  
+        border-width: 2px; 
+    }
+    .hobbies{
+        border: solid black;  
+        border-width: 2px; 
+    }
